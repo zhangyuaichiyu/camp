@@ -1,0 +1,147 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1024px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u2024_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1024px;
+  height:1649px;
+}
+#u2024 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1024px;
+  height:1649px;
+}
+#u2025 {
+  position:absolute;
+  left:2px;
+  top:816px;
+  width:1020px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2026_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:132px;
+  height:50px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2026 {
+  position:absolute;
+  left:522px;
+  top:294px;
+  width:132px;
+  height:50px;
+}
+#u2027 {
+  position:absolute;
+  left:2px;
+  top:17px;
+  width:128px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1280px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#u2024.a {
+  width:1280px;
+  height:2061px;
+}
+#u2024_img.a {
+  width:1280px;
+  height:2061px;
+}
+#u2025.a {
+  top:1022px;
+  width:1276px;
+}
+#u2026.a {
+  left:654px;
+  top:373px;
+}
+#u2026_div.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:132px;
+  height:50px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2027.a {
+}
+body.b {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1920px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#u2024.b {
+  width:1920px;
+  height:3092px;
+}
+#u2024_img.b {
+  width:1920px;
+  height:3092px;
+}
+#u2025.b {
+  top:1538px;
+  width:1916px;
+}
+#u2026.b {
+  left:1021px;
+  top:568px;
+}
+#u2026_div.b {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:132px;
+  height:50px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2027.b {
+}

@@ -1,0 +1,155 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1024px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u1689_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1024px;
+  height:1085px;
+}
+#u1689 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1024px;
+  height:1085px;
+}
+#u1690 {
+  position:absolute;
+  left:2px;
+  top:534px;
+  width:1020px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1691_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:203px;
+  height:218px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1691 {
+  position:absolute;
+  left:193px;
+  top:71px;
+  width:203px;
+  height:218px;
+}
+#u1692 {
+  position:absolute;
+  left:2px;
+  top:101px;
+  width:199px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1280px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#u1689.a {
+  width:1280px;
+  height:1356px;
+}
+#u1689_img.a {
+  width:1280px;
+  height:1356px;
+}
+#u1690.a {
+  top:670px;
+  width:1276px;
+}
+#u1691.a {
+  left:239px;
+  top:96px;
+  width:258px;
+  height:277px;
+}
+#u1691_div.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:258px;
+  height:277px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1692.a {
+  top:130px;
+  width:254px;
+}
+body.b {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1920px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#u1689.b {
+  width:1920px;
+  height:2034px;
+}
+#u1689_img.b {
+  width:1920px;
+  height:2034px;
+}
+#u1690.b {
+  top:1009px;
+  width:1916px;
+}
+#u1691.b {
+  left:358px;
+  top:153px;
+  width:383px;
+  height:409px;
+}
+#u1691_div.b {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:383px;
+  height:409px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1692.b {
+  top:196px;
+  width:379px;
+}
